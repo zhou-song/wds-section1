@@ -26,4 +26,5 @@ git push -u origin master
 
   Password for 'https://bbtmtl@github.com': bbtbbt123
 
-
+# Eclipse + Egit插件
+参看： http://blog.csdn.net/luckarecs/article/details/7427605
