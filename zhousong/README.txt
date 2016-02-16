@@ -7,3 +7,6 @@ git clone https://github.com/bbtmtl/wds-section1.git
 
 my first commit and push was done by Eclipse+Egit without 
 a SSH Key (using https instead)
+
+
+This time: login with my new account and edit online (oh no!)
